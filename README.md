@@ -5,7 +5,7 @@
 - ✒ You can see my old works on 2000-2008 repository. 
 - ✒ Websides were modified/adapted from public codes, themes and etc.. I converted webside codes asp to php in 2008.
 - ✒ All animations were made from me using public images (2000-2005).
-- ✒ We had a design prize in 2007 (upload to next week).
+- ✒ We had a design prize in 2007.
 - ⏳ you can see my recent works on 2019-2022 repository
 - ⏳ Diff_foreach.jpg and Diff_foreach2.jpg : foreach loop differences between C and VB on C#
 - ⏳ Difffor.jpg and Difffor2.jpg : for loop differences between C and VB on C#
