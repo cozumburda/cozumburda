@@ -13,7 +13,6 @@
 - ⏳ addingwebbrowsertovs2022.jpg : Adding webbrowser to VisualStudio2022
 - ⏳ whyfor.jpg : Advantages of for loop.
 - 📫 you can reach me acozumelektronik@gmail.com or whatsapp +905519633600.
-- 
 
 <!---
 cozumburda/cozumburda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
